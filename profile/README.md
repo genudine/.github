@@ -2,7 +2,7 @@
 
 https://saerro.ps2.live
 
-The Intelligence division from Genudine Dynamics, brokers of critical battlefield data for all of Auraxis.
+The Combat Intelligence division from Genudine Dynamics, brokers of critical battlefield data for all of Auraxis.
 
 We took our best engineers working in [Genudine Gardens](https://planetside.fandom.com/wiki/Genudine_Gardens) and ran a state-of-the-art nanite fiber directly to [Saerro Listening Post](https://planetside.fandom.com/wiki/Saerro_Listening_Post). See our diagram below...
 
